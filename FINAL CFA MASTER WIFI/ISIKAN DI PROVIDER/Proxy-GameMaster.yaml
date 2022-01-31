@@ -1,0 +1,12 @@
+proxies:
+- name: "isi nama konfig"
+  type: trojan
+  server: isikan host atau ip
+  port: isikan port
+  password: isikan key atau sandi
+  udp: true
+  sni: isikan bug anda
+  alpn:
+     - h2
+     - http/1.1
+  skip-cert-verify: true

@@ -1,0 +1,16 @@
+proxies:
+- name: "nama setting"
+  type: vmess
+  server: 123.123.123.123
+  port: 443
+  uuid: isikan id disini
+  alterId: 32
+  cipher: auto
+  udp: true
+  skip-cert-verify: true
+  tls: true
+  servername: gaskeun.com
+  network: ws
+  ws-path: /namahost
+  ws-headers:
+    Host: isibug.com

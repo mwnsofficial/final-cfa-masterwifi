@@ -1,0 +1,9 @@
+proxies:
+- name: "nama setting"
+  type: trojan
+  server: 123.123.123.123
+  port: 443
+  password: gaskeun
+  udp: true
+  sni: isibug.com
+  skip-cert-verify: true

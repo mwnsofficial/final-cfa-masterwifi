@@ -1,0 +1,12 @@
+proxies:
+- name: "nama setting"
+  type: ss
+  server: 123.123.123.123
+  port: 1443
+  cipher: auto
+  password: gaskeun
+  udp: true
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: isibug.com

@@ -1,0 +1,9 @@
+proxies:
+- name: "SnellMaster5"
+  type: snell
+  server: 123.123.123.123
+  port: 443
+  psk: gaskeun
+  obfs-opts:
+  mode: tls
+  host: isibug.com

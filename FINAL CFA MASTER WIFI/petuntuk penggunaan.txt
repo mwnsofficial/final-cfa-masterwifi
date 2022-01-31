@@ -1,0 +1,58 @@
+petunjuk penggunaan.
+
+1. Download file
+
+2. ekstrak file dengan unrara/unzip
+
+3. edit file berikut untuk isi akun :
+   a. Proxy-BrowserMaster.yaml
+   b. Proxy-GameMaster.yaml
+   c. Proxy-SosmedMaster.yaml
+   d. Proxy-StreamMaster.yaml
+   
+4. jika sudah di edit jangan lupa save file
+
+5. silahkan masuk ke aplikasi clash for android dan arahkan ke profil dan tekan (+) dan pilih file.
+
+6. pada bagian config manage yang perlu di isi adalah
+   a. mode provider file > pilih file dokument > cari file final-masterwifinetworksolution.yaml lalu ok kan saja tanpa ubah nama
+   b. mode provider file > pilih file dokument > cari file Proxy-BrowserMaster.yaml lalu ok kan saja tanpa ubah nama
+   c. mode provider file > pilih file dokument > cari file Proxy-GameMaster.yaml lalu ok kan saja tanpa ubah nama
+   d. mode provider file > pilih file dokument > cari file Proxy-SosmedMaster.yaml lalu ok kan saja tanpa ubah nama
+   e. mode provider file > pilih file dokument > cari file Proxy-StreamMaster.yaml lalu ok kan saja tanpa ubah nama
+   f. mode provider file > pilih file dokument > cari file BrowserMaster.yaml lalu ok kan saja tanpa ubah nama
+   g. mode provider file > pilih file dokument > cari file GameMaster.yaml lalu ok kan saja tanpa ubah nama
+   h. mode provider file > pilih file dokument > cari file SosmedMaster.yaml lalu ok kan saja tanpa ubah nama
+   i. mode provider file > pilih file dokument > cari file StreamMaster.yaml lalu ok kan saja tanpa ubah nama
+   j. mode provider file > pilih file dokument > cari file Direct_GameMaster.yaml lalu ok kan saja tanpa ubah nama
+   k. mode provider file > pilih file dokument > cari file Direct_SosmedMaster.yaml lalu ok kan saja tanpa ubah nama
+   l. mode provider file > pilih file dokument > cari file Direct_StreamMaster.yaml lalu ok kan saja tanpa ubah nama
+   
+7. jika sudah semua, silahkan tekan kembali lalu isikan nama profil dan simpan atau save.
+
+8. Pilih profile lalu tekan Nama profil yang baru di buat.
+
+9. tekan running untuk menjalankan clash for android.
+
+10. selamat, anda sudah bisa berselancar ke dunia maya.
+ 
+------------------
+
+note :
+
+REJECT = semua IKLAN yang ada akan auto block
+Direct Semua = semua script yang ada di Direct Game,Direct Sosmed,Direct Stream akan berjalan kecuali browser
+Direct Game = khusus paket game untuk di direct game
+Direct Sosmed = khusus paket sosmed untuk di direct sosmed
+Direct Stream = khusus paket stream untuk di direct steam
+
+jika ingin direct game atau sosmed atau stream, pastikan punya paket dan paket lain nya yang bisa di jalankan vpn.
+
+
+------------------------------------
+
+# Jangan lupa dukungan nya untuk channel saya dengan cara Subscribe Master Wifi Network Solution
+# Bagi yang ingin nyawer bisa lewat di bawah ini untuk keberlangsungan project pisah trafict full config
+# Shopeepay 087737659957
+# BRI atas nama MUHAMMAD YUSUF No Rek 453401017095532
+# Terima kasih atas dukungan teman semua
